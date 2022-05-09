@@ -1,0 +1,16 @@
+es/upm/dit/isst/tucomunidadapi/repository/CorrespondenciaRepository.class
+es/upm/dit/isst/tucomunidadapi/repository/ComunidadRepository.class
+es/upm/dit/isst/tucomunidadapi/model/Vecino.class
+es/upm/dit/isst/tucomunidadapi/ReactAndSpringDataRestApplication.class
+es/upm/dit/isst/tucomunidadapi/controllers/ComunidadController.class
+es/upm/dit/isst/tucomunidadapi/controllers/VecinoController.class
+es/upm/dit/isst/tucomunidadapi/model/Votacion.class
+es/upm/dit/isst/tucomunidadapi/repository/ConserjeRepository.class
+es/upm/dit/isst/tucomunidadapi/repository/VotacionRepository.class
+es/upm/dit/isst/tucomunidadapi/model/Conserje.class
+es/upm/dit/isst/tucomunidadapi/controllers/VotacionController.class
+es/upm/dit/isst/tucomunidadapi/controllers/ConserjeController.class
+es/upm/dit/isst/tucomunidadapi/controllers/CorrespondenciaController.class
+es/upm/dit/isst/tucomunidadapi/repository/VecinoRepository.class
+es/upm/dit/isst/tucomunidadapi/model/Comunidad.class
+es/upm/dit/isst/tucomunidadapi/model/Correspondencia.class

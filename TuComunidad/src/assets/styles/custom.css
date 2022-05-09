@@ -1,0 +1,151 @@
+a {
+    text-decoration: none;
+    color: #757575;
+    font-size: 25px;
+    margin-right: 5px;
+}
+a:hover {
+    text-decoration: none;
+    color: #444444;
+}
+a:visited {
+    text-decoration: none; 
+}
+.header {
+    float: right;
+    margin-top: 30px;
+}
+.content {
+    margin-top: 150px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 700px;
+    margin-top: 30px;
+  }
+  
+  td {
+    border: 1px solid #757575;
+    text-align: center;
+    color: #757575;
+    padding: 10px;
+    font-size: 18px;
+  }
+
+  th {
+    border: 1px solid #757575;
+    text-align: center;
+    color: #ebe9e9;
+    font-weight: bold;
+    padding: 12px;
+    font-size: 18px;
+  }
+  
+  tr:first-child {
+    background-color: #666565;
+  }
+
+  .chat-box {
+      background-color: white;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      margin-top: 70px;
+  }
+  .chat-input {
+      background-color: #edecec;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .records {
+      background-color: #f8f9fa;
+      height: 410px;
+      overflow: auto;
+  }
+  .record {
+      margin-bottom: 10px;
+      border: 1px solid #f2f2f2;
+      background-color: white;
+  }
+  .record h2, p {
+      padding: 10px 20px 10px 20px;
+      font-size: 16px;
+      color: #757575;
+  }
+  .users {
+      padding-top: 20px;
+      height: 410px;
+      overflow: auto;
+  }
+  .user {
+      border: 1px solid #f2f2f2;
+  }
+
+  .user h2, p {
+    padding: 10px 20px 10px 20px;
+    font-size: 16px;
+    color: #757575; 
+  }
+  .cinput {
+    border: 1px solid #d9d9d9;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-bottom: 2px;
+    margin-right: 5px;
+    margin-top: 2px;
+    font-size: 16px;
+    width: 250px;
+  }
+
+  .cbutton {
+      background-color: #ced4da;
+      color: #757575;
+      font-size: 15px;
+      border: none;
+  }
+  .cbutton:active {
+    background-color: #757575;
+    color: #ced4da;
+    font-size: 15px;
+    border: none;
+  }
+  .bbutton {
+    background-color: #757575;
+    color: #ced4da;
+    font-size: 15px;
+    border: none;
+  }
+  .bbutton:active {
+    background-color: #ced4da;
+    color: #757575;
+    font-size: 15px;
+    border: none;
+  }
+  .themes {
+      margin-top: 7px;
+      font-size: 15px;
+      color: #757575;
+  }
+  .sboarder {
+    border: 1px solid #f2f2f2;
+  }
+  .cellboard {
+      border: 1px solid #f2f2f2;
+  }
+  .c {
+    text-align: center;
+  }
+  .f {
+    padding: 10px 20px 10px 20px;
+    font-size: 16px;
+    color: #757575;
+  }
+  td a {
+    font-size: 20px;
+  }
+  h2 a {
+    font-size: 18px;
+  }
+
+#yellow {
+    height: 100%;
+    background: yellow;
+}

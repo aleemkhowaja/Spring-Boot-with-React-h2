@@ -1,0 +1,16 @@
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/repository/VecinoRepository.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/repository/ComunidadRepository.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/controllers/VecinoController.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/controllers/ConserjeController.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/controllers/CorrespondenciaController.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/ReactAndSpringDataRestApplication.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/repository/VotacionRepository.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/model/Vecino.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/model/Comunidad.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/controllers/VotacionController.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/controllers/ComunidadController.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/model/Votacion.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/repository/CorrespondenciaRepository.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/model/Conserje.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/repository/ConserjeRepository.java
+/home/debian/tucomunidad-master-main/src/main/java/es/upm/dit/isst/tucomunidadapi/model/Correspondencia.java
